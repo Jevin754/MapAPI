@@ -12,4 +12,4 @@
     * `--resdir`: 目标文件所在文件夹
 
 # 联系作者
-<a href="http://home.ustc.edu.cn/~pjh" target="_blank">Junfu Pu</a>, pjh AT mail.ustc.edu.cn
+[Junfu Pu](http://home.ustc.edu.cn/~pjh), pjh AT mail.ustc.edu.cn
