@@ -13,3 +13,4 @@
 
 # 联系作者
 Junfu Pu, pjh AT mail.ustc.edu.cn
+<a href="http://home.ustc.edu.cn/~pjh" target="_blank">Junfu Pu</a>, pjh AT mail.ustc.edu.cn
